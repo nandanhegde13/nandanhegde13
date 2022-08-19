@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning Springboot
 - 👯 I’m looking to collaborate on Java and WebDevelopment Projects
 - 📫 How to reach me : [click here](https://www.linkedin.com/in/nandan-hegde-60b2bb1b9/)
-![image](https://user-images.githubusercontent.com/55938000/185578605-67c14aa6-d24a-4aab-9473-8c11e09a8bd4.png)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/nandanhegde13/Images/blob/main/html-5.png)" width="200" height="200" />
+
 
 
