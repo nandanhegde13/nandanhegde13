@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on MERN Stack Development
 - 🌱 I’m currently learning Springboot
 - 👯 I’m looking to collaborate on Java and WebDevelopment Projects
-- 📫 How to reach me : [lick here](https://www.linkedin.com/in/nandan-hegde-60b2bb1b9/)
+- 📫 How to reach me : [click here](https://www.linkedin.com/in/nandan-hegde-60b2bb1b9/)
 
